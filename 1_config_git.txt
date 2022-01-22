@@ -1,0 +1,5 @@
+-- git config --global user.name [--username]
+-- git config user.name #checkuser
+
+-- git config --global user.email [--useremail]
+-- git config user.email #checkmail

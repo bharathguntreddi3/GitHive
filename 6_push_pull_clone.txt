@@ -1,0 +1,13 @@
+/*--push to github*/
+
+-- git push [--url_of_repo] [--branch] 	#push to repo to the branch
+
+-- git remote add [--alias_name 	#generally_alias_is_origin] [url_of_repo] #add an alias name to the repo instead of link
+
+-- git push origin master 	#pushing with the alias name
+
+-- git clone [--repo_url] 	#cloning a repo locally
+
+-- git remote -v 	#already stored to origin in the cloned repo
+
+-- git pull origin master 	#pulls the all new chages and updates to our local repo

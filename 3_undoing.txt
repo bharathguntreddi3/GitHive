@@ -1,0 +1,9 @@
+-- git checkout [--unique_id_of_commit]
+
+-- git checkout [--branch_name] 	#go to the last recent commit
+
+-- git revert [--unique_id_of_commit]   #revert the commit and and again commits the reverted_can change the msg
+
+-- git reset [--unique_id_of_commit]     #reset a commit and rollback
+
+-- git reset [--unique_id_of_commit] --hard      #hard flag to ratain no changes

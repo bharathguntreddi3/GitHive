@@ -1,0 +1,9 @@
+-- git branch [--new_branch_name] 	#add new branch
+
+-- git branch -a 	#check the branches
+
+-- git checkout [--new_branch_name] 	#change to the new branch
+
+-- git branch -D [--new_branch_name] 	#delete a branch '-D' used before merging
+
+-- git checkout -b [--new_branch_name] -a 	#create and change to the new branch

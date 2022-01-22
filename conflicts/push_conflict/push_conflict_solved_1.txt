@@ -1,0 +1,6 @@
+/*---A team is working on a project and the team members had changed some files and If there are different changes on both the remote and the local branch, instead of just pulling the master by 'git pull'--*/
+
+#just give the following command
+
+-- git pull -rebase master origin     #to confirm a pull request when it fails to push repo 
+

@@ -1,0 +1,5 @@
+#checkout to the master branch before merging the branches!!!
+
+-- git merge [--branch_name] 	#merge the new_branch to master branch
+
+-- git commit 	 #conflict occurs when we merge the same file with different text

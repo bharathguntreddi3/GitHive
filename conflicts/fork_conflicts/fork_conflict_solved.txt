@@ -1,0 +1,15 @@
+/*suppose you have forked your repo say 'boom' from another repo say 'chow' but you dont have permission to write into 'chow'*/
+
+/*when you try to pull request on 'chow' to get the latest changes and try to merge them into your repo ''boom' !it will slide a megre conflict*/
+
+#Resolve the conflict by
+
+--git remote add upstream https://chow   #add upstream remote
+
+--git checkout master   
+
+--git merge upstream/master   #merge in upstream changes
+
+--git push origin master   #And then push 
+
+#!!!BOOM your pull request automatically updates 

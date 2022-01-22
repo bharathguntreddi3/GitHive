@@ -1,0 +1,7 @@
+#merge conflict occurs when there is a difference between the states of the files while merging
+
+#edit the files and combine the different states of the files and then merge.After editing the file, then commit the changes and then merge the branches
+
+-- git commit -m "[--any_message]"
+
+-- git merge [--branch_name] #merge the edited file to the master branch

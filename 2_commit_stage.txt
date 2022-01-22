@@ -1,0 +1,15 @@
+-- git init    #initiate the git
+
+-- git status    #files changed but not staged
+
+-- git add [--file_name]or [space .]       #add files to stagen area; '.' to select all files'
+
+-- git rm --cached [--file_name]      #to unstage the files
+
+-- git commit -m "[--any_msg_needed]"
+
+-- git log #shows history of the commits
+
+-- git log --oneline        #shows history of commits in oneline
+
+-- git diff      #differences between states of the files
