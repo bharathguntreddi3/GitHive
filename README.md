@@ -4,6 +4,8 @@ Find everything about git and github you are looking for and the commands for gi
 
 
 /*--------------------------------------------------------------------------------------------------------*/
+
+
 git config --global user.name [--username]
 
 git config user.name #checkuser
@@ -15,6 +17,8 @@ git config user.email #checkmail
 
 
 /*-----------------------------------------------------------------------------------------------------*/
+
+
 git init #initiate the git
 
 git status #files changed but not staged
@@ -34,6 +38,8 @@ git diff #differences between states of the files
 
 
 /*--------------------------------------------------------------------------------------------------------*/
+
+
 git checkout [--unique_id_of_commit]
 
 git checkout [--branch_name] #go to the last recent commit
@@ -65,6 +71,8 @@ git commit #conflict occurs when we merge the same file with different text
 
 
 /*--------------------------------------------------------------------------------------------------------*/
+
+
 /*--push to github*/
 
 git push [--url_of_repo] [--branch] #push to repo to the branch
@@ -84,6 +92,8 @@ git pull origin master #pulls the all new chages and updates to our local repo
 
 
 /*--------------------------------------------------------------------------------------------------------*/
+
+
 /*-push conflict-*/
 
 git push origin master --force
@@ -95,6 +105,8 @@ git push origin master -rebase
 
 
 /*--------------------------------------------------------------------------------------------------------*/
+
+
 /*-merge conflict-*/
 
 #merge conflict occurs when there is a difference between the states of the files while merging
