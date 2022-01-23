@@ -33,6 +33,9 @@ git log #shows history of the commits
 
 git log --oneline #shows history of commits in oneline
 
+
+
+
 git diff #differences between states of the files
 
 
@@ -118,5 +121,5 @@ git commit -m "[--any_message]"
 git merge [--branch_name] #merge the edited file to the master branch
 
 
-
+! If you like the content published and feel satisfactory, then don't forget to follow me for more insteresting stuff and make a star of this repo !!
 
